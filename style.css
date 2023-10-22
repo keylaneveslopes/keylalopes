@@ -1,0 +1,39 @@
+body {
+    margin: 5px;
+    font-family: 'Fjalla One', sans-serif;
+}
+footer{
+    background-color: rgb(18, 17, 17);
+    padding:5px;
+    color:white;
+    margin-right:auto;
+}
+
+#topMenu {
+    display:flex;
+    background-color:#2e0f63;
+    margin:0;
+
+}
+.selection1 {
+    display: flex;
+    background-color: white;
+    width: 50vh;
+}
+.selection2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2px;
+}
+.foto{
+    width: 50vh;
+    height: 70vh;
+    padding-left: 2px;
+}
+.contato{
+    width: 10vh;
+    height: 10vh;
+    padding-left: 2px; 
+
+}
